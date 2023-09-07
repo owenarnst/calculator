@@ -1,0 +1,17 @@
+button {
+  height: 125px;
+  width: 100%;
+  font-size: 2rem !important;
+}
+button:active {
+  transform: translate(2px, 2px);
+  box-shadow: none !important;
+}
+
+.custom-box {
+  box-shadow: 2px 2px 1px gray !important;
+}
+
+#equals {
+  height: 258px;
+}/*# sourceMappingURL=Button.css.map */
